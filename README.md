@@ -12,7 +12,7 @@ This project sets up a **self-hosted VPN server** using **OpenVPN** to secure in
 ## Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/custom-vpn-server.git
+git clone https://github.com/adamsaqer/custom-vpn-server.git
 cd custom-vpn-server
 ```
 
